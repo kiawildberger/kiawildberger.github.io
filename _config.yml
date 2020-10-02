@@ -1,0 +1,5 @@
+relative_links:
+  enabled: true
+include:
+  - index.md
+theme: cayman
